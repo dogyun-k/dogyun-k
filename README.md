@@ -4,14 +4,25 @@
 
 **1998.01.18**
 
-👀 **Portfolio** https://github.com/dogyun-k/Portpolio-Dogyun
+👀 [**Portfolio**](https://github.com/dogyun-k/Portpolio-Dogyun)
 
 📫 **E-mail** kdk124578@naver.com
 
 🎓 **Kyungpook National University** 
 
-- Major: Electronic Engineering
-- Minor: Computer Science
+
+
+--------------------------
+**🛠️ Language**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogyun-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------
+**🏅 GitHub stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dogyun-k&show_icons=true&theme=vue-dark)
+
+
 
 <!---
 dogyun-k/dogyun-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
