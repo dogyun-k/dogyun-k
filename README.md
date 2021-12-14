@@ -6,7 +6,11 @@
 
 👀 [**Portfolio**](https://github.com/dogyun-k/Portpolio-Dogyun)
 
+💻 [**Velog**](https://velog.io/@dogyun-k) 
+
 📫 **E-mail** kdk124578@naver.com
+
+
 
 🎓 **Kyungpook National University** 
 
