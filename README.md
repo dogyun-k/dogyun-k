@@ -1,18 +1,16 @@
 ## 김도균
 
-백엔드 개발자 지망생
+<!-- 백엔드 개발자 지망생 -->
 
-**1998.01.18**
+<!-- **1998.01.18** -->
 
-👀 [**Portfolio**](https://github.com/dogyun-k/Portpolio-Dogyun)
+<!-- 👀 [**Portfolio**](https://github.com/dogyun-k/Portpolio-Dogyun) -->
 
 💻 [**Velog**](https://velog.io/@dogyun-k) 
 
 📫 **E-mail** kdk124578@naver.com
 
 
-
-🎓 **Kyungpook National University** 
 --------------------------
 
 **🔑 Solved**
