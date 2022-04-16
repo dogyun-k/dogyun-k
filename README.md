@@ -4,6 +4,9 @@
 
 **1998.01.18**
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdk124578)](https://solved.ac/kdk124578/)
+
+
 👀 [**Portfolio**](https://github.com/dogyun-k/Portpolio-Dogyun)
 
 💻 [**Velog**](https://velog.io/@dogyun-k) 
