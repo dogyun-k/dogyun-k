@@ -1,10 +1,8 @@
 ## 김도균
 
-<!-- 백엔드 개발자 지망생 -->
+![2025 1Contributor](https://github.com/user-attachments/assets/5d61ff76-79b3-4b3f-a057-c2508946eb56)
 
-<!-- **1998.01.18** -->
-
-<!-- 👀 [**Portfolio**](https://github.com/dogyun-k/Portpolio-Dogyun) -->
+-------------------------
 
 💻 [**Velog**](https://velog.io/@dogyun-k) 
 
@@ -26,8 +24,6 @@
 **🏅 GitHub stats**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dogyun-k&show_icons=true&theme=vue-dark)
-
-
 
 <!---
 dogyun-k/dogyun-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
